@@ -76,7 +76,7 @@ module tb2;
 
  
 <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
-<img width="1797" height="966" alt="Waveform" src="https://github.com/user-attachments/assets/221e5b05-8523-429b-b443-7374e6f78ca3" />
+
 
 
 # Simulation Procedure
@@ -129,7 +129,7 @@ Output
 # OUTPUT
 
 <img width="1392" height="415" alt="Output" src="https://github.com/user-attachments/assets/1837b740-3f19-4d0d-b07a-329be6ecf755" />
-
+<img width="1797" height="966" alt="Waveform" src="https://github.com/user-attachments/assets/221e5b05-8523-429b-b443-7374e6f78ca3" />
  
 # Viva-Voce Questions
 
